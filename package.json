@@ -1,0 +1,20 @@
+{
+  "name": "cardapio-online",
+  "version": "1.0.0",
+  "description": "Cardápio online para hamburgueria com API do  WhatsApp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaine-rodrigues/Cardapio-Online.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaine-rodrigues/Cardapio-Online/issues"
+  },
+  "homepage": "https://github.com/jaine-rodrigues/Cardapio-Online#readme"
+}
