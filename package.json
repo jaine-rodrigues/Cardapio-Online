@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jaine-rodrigues/Cardapio-Online/issues"
   },
-  "homepage": "https://github.com/jaine-rodrigues/Cardapio-Online#readme"
+  "homepage": "https://github.com/jaine-rodrigues/Cardapio-Online#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.19"
+  }
 }
